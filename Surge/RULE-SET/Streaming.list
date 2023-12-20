@@ -57,3 +57,6 @@ DOMAIN,aws.stan.video
 # > TVBAnywhere
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-KEYWORD,tvbanywhere
+
+
+DOMAIN-SUFFIX,tmdb.org
