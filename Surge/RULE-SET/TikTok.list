@@ -1,10 +1,10 @@
 # > Tiktok
-"domain:byteoversea.com",
-"domain:ibytedtos.com",
-"domain:ipstatp.com",
-"domain:muscdn.com",
-"domain:musical.ly",
-"domain:tiktok.com",
-"domain:tik-tokapi.com",
-"domain:tiktokcdn.com",
-"domain:tiktokv.com"
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,domain:ipstatp.com
+DOMAIN-SUFFIX,domain:muscdn.com
+DOMAIN-SUFFIX,domain:musical.ly
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
